@@ -1,4 +1,4 @@
 # Fire
-Just try to create some fire using shader using Godot.
+Just try to create some fire in Godot.
 
 https://youtu.be/nonpwfnGiNQ
